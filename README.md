@@ -9,5 +9,6 @@ This API is for FHIR Standards
 | # | Dependencies|
 |---|-------------|
 | 1 | JsonDecryptor|
+| 2 | ConfigManager |
 
 </Table>
