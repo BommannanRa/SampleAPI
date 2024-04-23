@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FHIR_HL7_Validator
-build_property.ProjectDir = /Users/bommanan/Documents/POCs/FHIR/FHIR_HL7_Validator/FHIR_HL7_Validator/
+build_property.ProjectDir = /Users/bommanan/Documents/0_my_work_0/Test/SampleAPI/FHIR_HL7_Validator/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
