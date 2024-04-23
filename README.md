@@ -10,5 +10,6 @@ This API is for FHIR Standards
 |---|-------------|
 | 1 | JsonDecryptor|
 | 2 | ConfigManager |
+| 3 | NewtonSoft |
 
 </Table>
